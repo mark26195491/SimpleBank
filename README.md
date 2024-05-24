@@ -1,3 +1,5 @@
+pip install pandas
+
 python SimpleBank.py
 
 #############create account#############   
